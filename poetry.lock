@@ -2889,4 +2889,3 @@ scikit-learn = ["scikit-learn"]
 lock-version = "2.0"
 python-versions = "^3.10"
 content-hash = "b14d34d677b7eb6288310690e52fc16b784a6ea7e59cb9ba0929ad0f796a1f27"
-
