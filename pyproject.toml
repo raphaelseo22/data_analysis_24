@@ -18,6 +18,8 @@ lightgbm = "^4.2.0"
 notebook = "^7.0.7"
 mypy = "^1.8.0"
 tqdm = "^4.66.1"
+statsmodels = "^0.14.2"
+marimo = "^0.8.7"
 
 
 [build-system]
